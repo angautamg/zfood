@@ -33,6 +33,7 @@ Go to the project directory
 Install dependencies
 
   npm install
+  
 Set up environment variables:
 
 * .env - environment variables for this project to run in development environment (fill with actual values for environment variables)
@@ -52,3 +53,6 @@ The application will now be running on http://localhost:3000. If you want to For
 ### 🔹 Highlight
 
 Z-Food combines the **power of TypeScript for safety**, **React for fast UI rendering**, **Express for scalable backend APIs**, and **Tailwind CSS for modern, sleek design** — resulting in a food delivery platform very similar to Swiggy but tailored for learning and portfolio showcase.
+
+
+
