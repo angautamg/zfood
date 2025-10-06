@@ -54,5 +54,10 @@ The application will now be running on http://localhost:3000. If you want to For
 
 Z-Food combines the **power of TypeScript for safety**, **React for fast UI rendering**, **Express for scalable backend APIs**, and **Tailwind CSS for modern, sleek design** — resulting in a food delivery platform very similar to Swiggy but tailored for learning and portfolio showcase.
 
+<img width="366" height="230" alt="Dashboard_simmer" src="https://github.com/user-attachments/assets/be81f2f3-6781-4b9d-96da-57d68f1752e8" />
+<img width="366" height="230" alt="image" src="https://github.com/user-attachments/assets/aeb52708-b5de-4908-ae88-b20bacf27891" />
+<img width="366" height="230" alt="DetailsSimmer" src="https://github.com/user-attachments/assets/a19eadb0-9210-403f-b356-374e100af3ee" />
+
+<img width="366" height="230" alt="Detail" src="https://github.com/user-attachments/assets/a322119a-5627-49aa-bea8-b644145a0031" />
 
 
