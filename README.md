@@ -22,6 +22,25 @@
 * Integration with **Swiggy APIs** for fetching real-time restaurant and menu data
 * RESTful API endpoints for cart, authentication, and orders
 
+You need to write the following commands on the terminal screen(in vscode) so that you can run this project locally.
+
+ …or push an existing repository from the command line
+git remote add origin https://github.com/angautamg/zfood.git
+
+Go to the project directory
+
+  cd zfood
+Install dependencies
+
+  npm install
+Set up environment variables:
+
+* .env - environment variables for this project to run in development environment (fill with actual values for environment variables)
+Run the application:
+
+  npm run start
+The application will now be running on http://localhost:3000. If you want to Fork repository and want to run locally, follow this guidelines Fork and Clone Github Repository
+
 ### 🔹 Tech Stack
 
 * **Frontend:** React.js, TypeScript, Tailwind CSS
